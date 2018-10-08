@@ -1,0 +1,25 @@
+{
+  "name": "dockerizing_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzlan/Dockerizing_a_nodeApp.git"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "ryzlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryzlan/Dockerizing_a_nodeApp/issues"
+  },
+  "homepage": "https://github.com/ryzlan/Dockerizing_a_nodeApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
